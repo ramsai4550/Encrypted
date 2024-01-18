@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500091058757",
+    "project_id": "sahithi4550",
+    "storage_bucket": "sahithi4550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500091058757:android:1527e5a4609580d271c12c",
+        "android_client_info": {
+          "package_name": "com.p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500091058757-kn1qcmibegbcivoscqjrouqj3559696o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_0lWGRygbJry2UdMPzzh6PY_GE1us6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500091058757-kn1qcmibegbcivoscqjrouqj3559696o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
